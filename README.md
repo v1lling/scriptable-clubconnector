@@ -11,7 +11,7 @@ Ein iOS Widget für [Scriptable](https://scriptable.app), das die aktuelle Ausla
 
 ## 📸 Screenshots
 
-<img src="images/preview.PNG" alt="Widget Preview" />
+<img src="images/preview.png" alt="Widget Preview" />
 
 
 ## ⚡ Voraussetzungen
