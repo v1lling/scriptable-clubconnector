@@ -11,14 +11,14 @@ Ein iOS Widget für [Scriptable](https://scriptable.app), das die aktuelle Ausla
 
 ## 📸 Screenshots
 
-### Klein Widget
-![Small Widget](images/small.PNG)
+### Widget - klein
+<img src="images/small.PNG" width="200" alt="Small Widget">
 
-### Mittel Widget
-![Medium Widget](images/medium.PNG)
+### Widget - mittel
+<img src="images/medium.PNG" width="400" alt="Medium Widget">
 
-### Groß Widget
-![Large Widget](images/large.PNG)
+### Widget - groß
+<img src="images/large.PNG" width="400" alt="Large Widget">
 
 ## ⚡ Voraussetzungen
 
